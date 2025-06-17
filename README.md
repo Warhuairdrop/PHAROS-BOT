@@ -34,3 +34,6 @@ For the latest updates, handy tips, and exciting new scripts, be sure to follow 
 Contributions
 Have an idea, found a bug, or want to improve PHAROS-BOT? Don't hesitate to open an issue or submit a pull request. Your contributions are highly valued and welcome!
 Get ready to supercharge your airdrop game with PHAROS-BOT!
+
+
+🚀🚀Running BOT using : node pharos_bot.js
